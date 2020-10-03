@@ -1,0 +1,59 @@
+/*nome*/
+.text-header {
+    color: purple;
+    text-align: center;
+    font-size:40px;
+    padding: 3px;
+
+}
+/*nome*/
+
+/*menu*/
+footer {
+text-align: center;
+  padding: 3px;
+  color: white;
+}
+nav {
+    font-size: 20px;
+}
+
+nav a:link, nav a:visited
+{
+    color: black;
+    width: 188px;
+    text-align: center;
+    text-decoration: none;
+    margin: 30px 60px;
+}
+
+nav a:hover
+{
+    font-weight: 900;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0x;
+    overflow: hidden;    
+  }
+  /*menu*/
+/*foto*/
+  .column {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 30px; 
+  }
+  .row {
+    text-align:center;
+  }
+/*foto*/
+
+/*sobre*/
+h2 {
+    text-align: center;
+}
+
